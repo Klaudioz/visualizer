@@ -8,9 +8,8 @@ A visualizer for common algorithm patterns made with Next.js, Tailwind, and Fram
 
 > DISCLAIMER: This project is very much still a WIP so the design is not polished, not optimized for mobile, features are missing, etc. Check back regularly for updates!
 
-## Roadmap
+## Issues
 
-I'm currently actively working on this but between school, work, and other commitments, features are coming along slowly. Nevertheless the two main features I'm working towards include:
+To resolve the Error: error:0308010C:digital envelope routines::unsupported error, you can set the NODE_OPTIONS environment variable to allow the use of the unsupported algorithms. This is a workaround for projects that may not yet be fully compatible with the stricter OpenSSL policies enforced by Node.js versions 17 and later.
 
-- Implementing a skeleton for _every_ pattern described in Grokking the Coding Interview, and
-- Integrating some form of post or text that goes along with the visualization.
+`NODE_OPTIONS=--openssl-legacy-provider npm run dev`

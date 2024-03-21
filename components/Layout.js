@@ -33,7 +33,7 @@ export function Layout({ children }) {
 }
 
 const routes = {
-  'sliding-window': ['find-all-averages', 'non-repeat-substring'],
+  'sliding-window': ['find-all-averages', 'non-repeat-substring', 'maximum-sum-subarray'],
   'two-pointers': [
     'pair-sum',
     'remove-duplicates',
