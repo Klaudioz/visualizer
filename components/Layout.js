@@ -43,6 +43,7 @@ const routes = {
     'longest-subarray-ones-replacement',
     'permutation-in-string',
     'string-anagrams',
+    'smallest-window-substring',
   ],
   'two-pointers': [
     'pair-sum',
