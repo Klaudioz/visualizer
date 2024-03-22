@@ -48,7 +48,7 @@ export default makeAlgorithmPage(
     title: 'Non-Repeat Substring',
     pattern: 'Sliding Window',
     description:
-      'Given a string, find the longest substring with no repeating characters.',
+      'Given a string, find the length of the longest substring with no repeating characters.',
     algorithm: nonRepeatSubstring,
     inputs: {
       str: 'aabccbb',
