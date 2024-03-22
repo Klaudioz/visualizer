@@ -33,7 +33,15 @@ export function Layout({ children }) {
 }
 
 const routes = {
-  'sliding-window': ['find-all-averages', 'non-repeat-substring', 'maximum-sum-subarray', 'smallest-subarray-sum', 'longest-substring-k-distinct', 'fruits-into-baskets', 'longest-substring-after-replacement'],
+  'sliding-window': [
+    'find-all-averages',
+    'non-repeat-substring',
+    'smallest-subarray-sum',
+    'longest-substring-k-distinct',
+    'fruits-into-baskets',
+    'longest-substring-after-replacement',
+    'longest-subarray-ones-replacement',
+  ],
   'two-pointers': [
     'pair-sum',
     'remove-duplicates',
