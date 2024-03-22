@@ -47,12 +47,8 @@ const routes = {
     'words-concatenation',
   ],
   'two-pointers': [
-    'pair-sum',
-    'remove-duplicates',
-    'sorted-squares',
-    'triplet-sum-to-zero',
-    'closest-triplet',
-    'dutch-flag-sort',
+    'pair-with-target-sum',
+    
   ],
 }
 
