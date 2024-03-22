@@ -44,6 +44,7 @@ const routes = {
     'permutation-in-string',
     'string-anagrams',
     'smallest-window-substring',
+    'words-concatenation',
   ],
   'two-pointers': [
     'pair-sum',
