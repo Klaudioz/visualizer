@@ -41,6 +41,7 @@ const routes = {
     'fruits-into-baskets',
     'longest-substring-after-replacement',
     'longest-subarray-ones-replacement',
+    'permutation-in-string',
   ],
   'two-pointers': [
     'pair-sum',
